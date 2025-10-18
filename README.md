@@ -1,4 +1,4 @@
-# springBootExample
+# IMDbProject
 
 ### Download
 
